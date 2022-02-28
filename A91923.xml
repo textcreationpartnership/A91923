@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love to the captives: or, The love of God to the world; who so loved the world, that he gave his onely begotten son, to be the light of the world, that whosoever believeth in him should not perish, but have eternal life, and no man cometh to the father, but by him, (who is the redeemer of the captives.) Given forth for their sakes, who desire to turn to the Lord, or to see a return out of captivity, declaring the way to God, and where power against sin may be received, that your souls may no longer be held under the snare of the Divel, nor you be made a prey upon by deceivers, but come away to the light, which is the power of God unto salvation; and he that believes shall be saved, and he that believes not shall be damned.</title>
+            <author>Rofe, George, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91923</idno>
+            <idno type="STC">Wing R1786</idno>
+            <idno type="STC">Thomason E903_1</idno>
+            <idno type="STC">ESTC R207415</idno>
+            <idno type="EEBO-CITATION">99866465</idno>
+            <idno type="PROQUEST">99866465</idno>
+            <idno type="VID">118740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118740)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 136:E903[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love to the captives: or, The love of God to the world; who so loved the world, that he gave his onely begotten son, to be the light of the world, that whosoever believeth in him should not perish, but have eternal life, and no man cometh to the father, but by him, (who is the redeemer of the captives.) Given forth for their sakes, who desire to turn to the Lord, or to see a return out of captivity, declaring the way to God, and where power against sin may be received, that your souls may no longer be held under the snare of the Divel, nor you be made a prey upon by deceivers, but come away to the light, which is the power of God unto salvation; and he that believes shall be saved, and he that believes not shall be damned.</title>
+                  <author>Rofe, George, d. 1664.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656. [i.e. 1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G. R., i.e. George Rofe.</note>
+                  <note>Annotation on Thomason copy: "January 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity --  Early works to 1800.</term>
+               <term>God --  Love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118740:1" rendition="simple:additions"/>
+            <p>Love to the Captives: OR, The love of God to the World;</p>
+            <p>Who ſo loved the World, that he gave his onely begotten Son, to be the light of the World, that whoſoever believeth in him ſhould not periſh, but have eternal life, and no man cometh to the Father, but by him, (who is the Redeemer of the Captives.)</p>
+            <p>Given forth for their ſakes, who deſire to turn to the Lord, or to ſee a return out of Captivity, de<g ref="char:EOLhyphen"/>claring the way to God, and where power againſt ſin may be received, that your ſouls may no longer be held under the ſnare of the Divel, nor you be made a prey upon by Deceivers, but come away to the light, which is the po<g ref="char:EOLhyphen"/>wer of God unto Salvation; and he that believes ſhall be ſaved, and he that believes not ſhall be damned.</p>
+            <q>
+               <p>For mine eyes have ſeen thy ſalvation, which thou haſt prepared before the face of all people; A light to lighten the Gentiles, and the glory of thy people Iſrael,</p>
+               <bibl>
+                  <hi>Luke</hi> 2.30, 31, 32.</bibl>
+            </q>
+            <q>
+               <p>Then ſpake Jeſus again unto them, ſaying, I am the light of the World, he that followeth me ſhall not walk in darkneſs, but ſhall have the light of life, that was the true light, which lighteth every man that cometh into the world,</p>
+               <bibl>
+                  <hi>John</hi> 8.12. and 1.9.</bibl>
+            </q>
+            <q>
+               <p>And this is the condemnation, that light is come into the world, and men love darkneſs rather than light, becauſe their deeds were evill; for every one that doth evill hateth the light, nei<g ref="char:EOLhyphen"/>ther cometh to the light, leſt his deeds ſhould be reproved; but he that doth truth, cometh to the light, that his deeds may be made manifeſt that they are wrought in God,</p>
+               <bibl>
+                  <hi>John</hi> 3.19, 20, 21.</bibl>
+            </q>
+            <p>
+               <add>february 11<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:118740:2"/>
+            <head>LOVE to the CAPTIVES, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eturn,<note place="margin">Hoſ: 14: 1. Joel: 2: 12. Mall: 3: 7. Iſa: 5: 13.</note> Return, O Captivated People, and ſee how you are fallen from innocency, oh how great Captivitie are you in? how darkneſs hath overſpread the wiſe men; and pride and covetouſneſs hath ſtoln a<g ref="char:EOLhyphen"/>way the hearts of the greatmen, and op<g ref="char:EOLhyphen"/>preſſion is greatly exalted in the Rulers,<note place="margin">Hoſ: 4: 8. Prov: 13: 10. Obed: 3.</note> and inſtead of pro<g ref="char:EOLhyphen"/>tection to the innocent, there is a Cry, away with him, to priſon he muſt go! Oh, what a fence is here made againſt e<g ref="char:EOLhyphen"/>quity, Truth faileth, there is no room for it in the ſtreets! and if oppreſſion can keep out equity, it ſhall not enter, and this is done againſt the Lord,<note place="margin">Iſa: 59.</note> and he is diſpleaſed with it; Therefore while it is called to day, harden not your hearts, but turn to the Lord who hath all this time ſpared you,<note place="margin">Heb: 4: 7. Prov: 28: 13.</note> and gave thus long time, and yet hath not utterly conſumed you; and his long ſufferings towards you,<note place="margin">Lam: 3: 22. Rom: 2: 4.</note> have been to have drawn you to repentance, that you might awake out of your ſelf-ſecurity (wherein you have been lull'd a ſleep) and ariſe from the dead works,<note place="margin">Epheſ: 5: 14. Iohn 5: 25.</note> and hear the voice of the Son of God and live: behold him, his witneſs is in your conſciences; cal<g ref="char:EOLhyphen"/>ling you out of the evil of the world; it hath been in you, in the years paſt, and in the daies long agoe, and when you have committed evil, it was a preſent witneſs againſt you, ſome<g ref="char:EOLhyphen"/>times letting you ſee evil before you acted it,<note place="margin">Epheſ: 7: 13.</note> and that you ſhould not have acted evil, and have judged and condemned and brought trouble upon you for your evil doings, and ſom<g ref="char:EOLhyphen"/>times when you have run raſhly into the evil; not taking ad<g ref="char:EOLhyphen"/>vice of the Lord what you ſhould have done, but have ru<g ref="char:EOLhyphen"/>ſhed into iniquity, as a horſe ruſheth into the battel; yet when you have done thus, if you in moderation did but conſider what you had done, this witneſs, the light of Chriſt in your Conſciences,<note place="margin">Luke 2: 32. John 1: 4.</note> let you ſee you were wrong, and that you ſhould not have touched the unclean, nor have acted in ſin and un<g ref="char:EOLhyphen"/>cleanneſs,
+<pb n="3" facs="tcp:118740:2"/>and then you have been judged and condemned,<note place="margin">2 Cor. 6.17. Rev. 18.4.</note> by the witneſs of God in your ſelves, which hath ſmitten you inwardly, for the evil of your doings, and yet you returned not unto the Lord, to be guided by his witneſs,<note place="margin">Hoſ. 6.1.</note> though it hath thus dealt with you, and if you had obeyed it, it had been your power to have led you out of evil,<note place="margin">1 Cor. 1.1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and from under his power, who ſubjects to the evil, and it would have led you into Gods righteouſneſs, where you ſhould have found peace and reſt to your ſouls: But O you ſilly people! you have ſlieghted the day of your viſitation, and neglected to obey the counſel of the Lord, and have not minded the tea<g ref="char:EOLhyphen"/>chings of his power, the light in your Conſciences, which is the Saints teacher;<note place="margin">Iſa 30.20.21. John 6.45.</note> but you have ſought after God in your own waies, and have not found him, becauſe you have not ſought aright, nor walked in the obedience of the light, the witneſs in your Conſciences, which condemns all evill,<note place="margin">Jo. 3.19 &amp;c. and 1.2.36.</note> which if you had, you had ceaſed from your own works and waies, and it would have led you into the one way, which is Chriſt, who is the light of the world, and lighteth every man that cometh into the world, and no man cometh unto the Father but by him, the way, the light, the truth,<note place="margin">John 14.6.</note> and there is no other way or name by which any can be ſaved, but by him who is the light, unto whom you have not yeelded true obedience, nor given your hearts; but captivity yet remains upon you, and the Captivator is entertained, who hath led,<note place="margin">Pſal. 5.5. Acts 8.21.23.</note> and doth lead you in evil, and yet you lean upon the Lord while iniquity is ſtanding, and the bands of it ſtrong in you, and your thoughts and deſires is to enjoy the Kingdome of God; but they that take not up the Croſſe,<note place="margin">Rom. 1.16. 1 Cor. 1.18.</note> (that is the light which condemns all evil, which is the wiſdom and power of God in them that are ſaved) ſhall not enjoy the Crown, for the Crown is obtained through the Croſſe, which leads out of the evil, to ſerve God and deny Self, and ſelf-works,<note place="margin">Luke 9.23, 24 &amp; 14.26. Matt. 10. Phil. 2.13. Exod. 14.13.</note> and ſelf-willing, and ſelf running, and wait upon God who gi<g ref="char:EOLhyphen"/>veth both to will and to do, whoſe own power doth his own work: And O that you could but ſtand ſtill, and ſee this po<g ref="char:EOLhyphen"/>wer, the light (which leads into righteouſneſs) break forth in you, to lead you out of captivity, then would you ceaſe from your own works, and from your own willings and run<g ref="char:EOLhyphen"/>nings,
+<pb n="4" facs="tcp:118740:3"/>and from exalting ſelf, and ſetting up your own de<g ref="char:EOLhyphen"/>vices, invented in your fallen wiſdom, wherein your imagi<g ref="char:EOLhyphen"/>nations is highly exalted, above the knowledge of God, and there the wicked one hath his ſeat,<note place="margin">2 Theſ. 2.4. Rev. 13.8.14. 2 Cor. 11.14.</note> and Anti-chriſt is exaled above all that is called God, and ſitteth in the Temple of God, and ſaith he is God, and ſo deceiveth them that dwell on the earth, who is transformed into the likeneſs of the truth it ſelf, and is a leader of the children of diſobedience, in all manner of deceivableneſs of unrighteouſneſs, and keeps you in captivity;<note place="margin">2 Theſ. 2.10. Iſa. 5.13.</note> and into much profeſſion you are led, and many likeneſſes and invitations are acted, and many ſects, and forms,<note place="margin">Eccleſ. 7.24.</note> and opinions ran into, though the life and power of God is lived out of, yea it may be not one of a thouſand that are acquainted with it, or that dare own them, who witneſs it forth as it is in Jeſus, who are ready to ſeal to their teſtimo<g ref="char:EOLhyphen"/>ny with their bloods;<note place="margin">2 Tim. 4.3.</note> and though you reject the power and teſtimony of this pure life, yet you have heaped up Teachers to your ſelves, and they have your praiſe, and are exalted by you, though I know, and if you did but examine your own hearts, the light of Chriſt in you would let you alſo ſee and know,<note place="margin">Jer. 23.21.22, 32.</note> that they have not profited you, but the bands of in<g ref="char:EOLhyphen"/>iquitie yet is ſtrong in you, and them who you have ſo ſet up, and do exalt and praiſe to be rare Teachers, many of you do not underſtand what they ſay, nor they themſelves where<g ref="char:EOLhyphen"/>of they affirm, but many of you are in ſuch ſottiſhneſs, that when you are hearing theſe you ſo allow of,<note place="margin">1 Tim. 1.7.</note> that ſleep over<g ref="char:EOLhyphen"/>comes you, yea, in the very time of your pretended worſhip, and ſome of your your hearts run a whoring after the things and luſts and pleaſures and vanity of the world;<note place="margin">Ezek. 6.9. Hoſea 4.11.</note> imagining or coveting, what to have to eat or drink, and to put on to your bodies, and inventing how to get money to ſatisfie your luſts with,<note place="margin">1 Tim. 6.10.</note> and how you ſhould take pleaſure enough in your own beloveds, or deceitful lovers, which your adulterous hearts delights in; and thus you poor blind people are held captive, and though you draw near unto God with your lips, and profeſs his name with your tongues,<note place="margin">Mat. 15.7, 8, 9</note> yet your hearts is far from him; and thus have you delighted your ſelves in vanity, following the wicked one, who hath ſtoln away your hearts, which runs a whoring from the living God, delight<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:118740:3"/>in the ceatures more than in the Creator, and thus you ſpend your time in vanity, treaſuring up wrath againſt the day of wrath,<note place="margin">Rom: 2: 5.</note> and thus in your pretended ſolemn meetings and beſt duties as you eſteem of them, you euen add ſin unto iniquity, your minds running a whoring from God, yea, when pretended to ſerve and worſhip God, and in the cap<g ref="char:EOLhyphen"/>tivitie where you are, where iniquitie is lived in, it cannot be otherwaies, for where the light is not your guide, there your wills is at liberty, and the wicked one ſubjecting you to vanity, and the light in which your minds ſhould be ſtayed, is rejected, and ſo in vain is your worſhip, and your drawing near unto God with your mouthes,<note place="margin">Pſal. 66: 18.</note> while iniquity is regard<g ref="char:EOLhyphen"/>ed in your hearts, and the light of Chriſt rejected,<note place="margin">Iſa. 58.</note> which ſhould lead you out of captivity, and break the bands of iniquitie; And this I know that in time paſt, (when the night was upon me, and my ſoul held captive, and the crea<g ref="char:EOLhyphen"/>ture made a ſervant to ſin and corruption) I followed after ſuch men as you have ſet up to be your Teachers, yea, I fol<g ref="char:EOLhyphen"/>lowed them day after day, long together, and never found any ſatisfaction to my ſoul, by what I heard them ſpeak, though ſome praiſe of men I got thereby, yet miſery encom<g ref="char:EOLhyphen"/>paſſed me, yea, often day and night I ſought after the Lord, and that in tears, and my ſoul deſired after the Lord; but their teachings was ſo dirty, and their words ſo deceitful, and ſo contrary to the life and power of God, that inſtead of a<g ref="char:EOLhyphen"/>wakning me to the Judgements of God,<note place="margin">1 Cor: 15: 34. Epheſ. 5 4. Rom: 8: 20.</note> they lull'd me a<g ref="char:EOLhyphen"/>ſleep, and that in the very time of being to hear them, and though I was a conſtant hearer of them ſeveral years toge<g ref="char:EOLhyphen"/>ther, yet vanity and pride encreaſed, and the vain mind and wicked thoughts were at liberty in the tim s of their ſpeak<g ref="char:EOLhyphen"/>ing, and I followed them till miſery overtook me, and the light in my Conſcience ſhewed me the evil of their doings, and the vanitie of their words, and before I heard the ever<g ref="char:EOLhyphen"/>laſting Goſpel, the light truely declared of, I ſaw by the wit<g ref="char:EOLhyphen"/>neſs of God, in the Prieſts and people great wickedneſs, and my ſelf to be one amongſt them, and knew no way to reco<g ref="char:EOLhyphen"/>ver out of it, until the Lord revealed his power; and while I was a follower of the Prieſts, I, inſtead of going to the Steeple-houſe, have been made to go and lament my condi<g ref="char:EOLhyphen"/>tion
+<pb n="6" facs="tcp:118740:4"/>in a ſecret place, yea, from amongſt men; (in a word) to ſeek the Lord, and to bewail my ſoul that was overwhel<g ref="char:EOLhyphen"/>med with iniquitie, and deſired in tears to know the Lord, but the way I never found by the wiſdome of man, nor had known it to this day, if the Lord Jeſus had not revealed him<g ref="char:EOLhyphen"/>ſelf to me in his marvellous light, which often appeared to me when I knew it not; I ſpeak the truth I lie not, God is my witneſs who knows the ſecrets of all hearts, who is the righteous Judge, who will reward every man according to his deeds;<note place="margin">Iſa 59.13. Rom. 2.6.</note> and every mans deeds ſhall be witneſſed in the preſence of the Lord, by the light of his Son in their conſci<g ref="char:EOLhyphen"/>ences; And all people conſider in your beds, and in your ſecret cloſſets examine your ſelves, and let the light in your conſciences manifeſt your conditions to you, (which light is preſent at all times, letting you ſee you ſhould not com<g ref="char:EOLhyphen"/>mit evil) and then you will ſee that you know but little of the life and power of God, though in words you have made a large profeſſion of his name, and this is it which the Lord requires of you, that you obey the light of his Son in your conſciences, that's the light which lets you ſee the evil of your doings, and a meaſure of it you have every one recei<g ref="char:EOLhyphen"/>ved, and obedience to it God requires,<note place="margin">John 1: 9. 1 Cor. 12: 7. 1 Sam: 15.22. Matt: 11.27.</note> and doing this its better than Sacrifice; and all that comes unto God its in this light, and no man knows the Father, but them to whom the light reveals him, and ſo all your profeſſion of God, which is out of the light, is but vanity and iniquitie, and while pride and luſts is obeyed in the profeſſor, there is the hypocrite, the thief and the robber, running before Chriſt, profeſſing his name,<note place="margin">Iob 15: 31. Mal. 4.1. Iames 4: 6. Matt: 23. Iohn 10: 8. Iſa. 1: 12. Deut: 4: 30, 31</note> being out of his life, God requires not this at your hands, but obedience the Lord requires, and the breaking off iniquitie is that which is well pleaſing unto God; And now is the day that the Lord calls unto you, and if ever you find redemption or recovery out of iniquitie, it muſt be by the light, elſe you are loſt for ever; and know this that you cannot enjoy two Kingdomes, if you enjoy the love, and delights, and pleaſures of the world, (which are enmity with God) you partake not of the joyes of the Kingdome of God,<note place="margin">Iames 4: 4.</note> you cannot ſerve God and Mammon; if you are ſervants to ſin, you are not ſervants to God, and
+<pb n="7" facs="tcp:118740:4"/>to whom you yeeld your members ſervants to obey,<note place="margin">Matt: 6: 23. 1 Io: 3: 6: 8. Rom: 6: 16. Iohn 3: 16.</note> his ſer<g ref="char:EOLhyphen"/>vants yee are, whether of ſin unto death, or righteouſneſs unto life, and now the love of God appears towards you, that your nakedneſs may be covered, and your pollutions done away; O that you would but conſider how the Lord hath waited on you to be gracious unto you, who hath gi<g ref="char:EOLhyphen"/>ven his Son a light, that whoſoever beleeves in him ſhall not periſh but have eternal life,<note place="margin">Iſa: 42: 6. Iohn 3: 15,</note> and this was the love of God to ſinners, who hath given his Son, that in him you might have life, and this is the Lords mercy to you, and your bleſ<g ref="char:EOLhyphen"/>ſing if you receive him, who is not of this world: And in your return to the Lord would my ſoul rejoyce, and when ſhall the day be ſeen, that you ſeek no more your own ho<g ref="char:EOLhyphen"/>nor or delights, but the honor of the Lord?<note place="margin">Iohn 5: 44.</note> and if you come to ſee and poſſeſs this, then you will ſee all fleſh to be as graſs, and the glory of it to be as the flowers of the field,<note place="margin">Iſa. 40.6, 7, 8. Iſa: 52: 7. Rom: 10: 15.</note> which ſoon withereth and paſſeth away; then will be ſeen how beautiful are the feet of him that bringeth glad tydings to the meek, and then will you ſee how your ſouls have been captive, and that in the light is the pure liberty, and bleſſed are they that receive it, and walk in the love of it, for there is no occaſion of ſtumbling, though it be a ſtumbling ſtone and rock of offence to the world,<note place="margin">Rom 9: 32, 33 Pſal: 56: 9: 16 &amp; 62: 2. &amp; 94: 22. Heb: 11: 38.</note> yet its the defence and ſtrength of the ſaints and ſervants of God, of whom the world is not worthy, though by the world they are account<g ref="char:EOLhyphen"/>ed as the off-ſcouring of all things, yet their reward is in the Lord God Almighty, who is over all the world; And this I lay upon you all,<note place="margin">Iſa: 56: 11. Ier: 5: 31: &amp; 23: 21: 22, 32 Ezek: 22: 28. Ezek: 34. Mica: 3: 5: 11. Mal. 2. Matt: 15: to 20 Matt: 6: 5. &amp; 23. 2 Tim: 3. 2 Pet: 2: 13. 14, 15. Iud: 11: 16. Lu: 13: 3: 5.</note> as you will anſwer it before the Lord at the day of your account, that you take heed you hold not up ſuch as you know have deceived you, or as the Scriptures witneſſeth againſt to be deceivers, leſt you partake of their ſins, and ſo muſt partake of their plagues; (and by their fruits you ſhall know them) ſo ſee that you come out from amongſt them, and be you ſeparate and touch no unclean thing, that the Lord God may receive you, and you may ſee forgiveneſs of ſins, and iniquities blotted, and ſo obey the life of the Lamb, who takes away the ſins of the world, and if you hate your part in him, your ſins remains upon your heads, and God is clear of your blood, and hath no delight
+<pb n="8" facs="tcp:118740:5"/>in the death of a ſinner, but calls to the wicked to repent, that they may find mercy; and his witneſſe that reproves for evil is in you, and calls to repentance; and if you repent not, you periſh; and this is in love to your ſouls, though it may appear folly to your wiſdome, to which I doe not ſend it, nor do I look to be owned by it, but commend it to that of God in your Conſciences.</p>
+            <closer>
+               <dateline>Given forth in the Common Goal of <hi>Saffron-Walden</hi> in <hi>Eſſex,</hi> 
+                  <date>the 1. day of the 11. month, 1656.</date>
+               </dateline>
+               <signed>By a ſufferer for the Teſtimony of Jeſus. <hi>G. R.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Learn to know the Spirit of God, with it to try all things, and hold faſt that which is good.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
